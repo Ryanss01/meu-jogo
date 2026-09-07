@@ -1,4 +1,4 @@
-/*
+    // /*
  * Ponteiros + Alocação Dinâmica (vetor e matriz) com raylib
  * ---------------------------------------------------------------
  * Este programa desenha:
